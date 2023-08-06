@@ -31,7 +31,7 @@ const element = (
             message="Warning Message"
           />
           <Notification 
-            className="errorr-bg-color"
+            className="error-bg-color"
             iconUrl="https://assets.ccbp.in/frontend/react-js/danger-icon-img.png"
             message="Error Message"
           />
